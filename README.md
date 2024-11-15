@@ -1,0 +1,1 @@
+This shows how to create an android application for displaying the Calendar using CalendarView. It also provides the selection of the current date and displaying the date. The setOnDateChangeListener Interface is used which provide onSelectedDayChange method
